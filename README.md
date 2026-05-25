@@ -1,33 +1,148 @@
-<h1 align="center">Hi 👋, I'm Nowshad Shaik</h1>
-<h3 align="center">Automation Tester | Selenium WebDriver | TestNG | REST Assured</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nowshad-123&label=Profile%20views&color=0e75b6&style=flat" alt="nowshad-123" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Nowshad%20Shaik%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20SDET%20%7C%20Test%20Automation%20Enthusiast&descAlignY=58&descSize=18&descColor=a8d8ea" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowshad-123" alt="nowshad-123" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Inventory Management API Automation Framework](https://github.com/your-username/inventory-api-testing)
+---
 
-- 🌱 I’m currently learning **🌱 I’m currently learning REST Assured, Jenkins, and CI/CD pipelines**
+## 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on real-world automation testing projects and quality engineering solutions**
+> *"Quality is never an accident; it is always the result of intelligent effort."*
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with building scalable automation frameworks and real-world testing workflows**
+I'm a **fresher QA Engineer / SDET** passionate about building **robust test automation frameworks** that catch bugs before users do. I believe great software is not just written — it's *verified*.
 
-- 💬 Ask me about **Selenium, Cucumber, REST API Testing, And Basic Framework Design**
+- 🔭 Currently building end-to-end automation frameworks using **Java + Selenium**
+- 🌱 Actively learning **REST API Testing (RestAssured)**, **TestNG**, and **CI/CD pipelines**
+- 🎯 Goal: Transition into a full **SDET** role — writing code that tests code
+- 📍 Open to **full-time QA / Automation roles** — fresher-friendly or otherwise!
+- 💬 Ask me about **Selenium WebDriver, Java OOP, XPath, Page Object Model**
 
-- 📫 How to reach me **nowshadsabapathi@gmail.com**
+---
 
-- ⚡ Fun fact **⚡ Fun fact: I enjoy breaking applications to understand how they work**
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Test Automation**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nowshad-123&show_icons=true&locale=en&layout=compact" alt="nowshad-123" /></p>
+**API Testing**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nowshad-123&show_icons=true&locale=en" alt="nowshad-123" /></p>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-008000?style=for-the-badge&logo=java&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nowshad-123&" alt="nowshad-123" /></p>
+**Build & CI/CD**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Frameworks & Patterns**
+
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-0f2027?style=for-the-badge&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD%20%7C%20Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🔬 [Selenium-Java-Framework](https://github.com/YourUsername/selenium-java-framework)
+> End-to-end UI automation framework built from scratch
+
+- ✅ **Page Object Model (POM)** design pattern
+- ✅ **TestNG** test runner with XML suite configuration
+- ✅ **ExtentReports** for rich HTML test reports
+- ✅ **Cross-browser** support: Chrome, Firefox, Edge
+- ✅ **Screenshot on failure** built-in
+- `Java` `Selenium 4` `TestNG` `Maven` `ExtentReports`
+
+---
+
+### 🌐 [API-Testing-RestAssured](https://github.com/YourUsername/api-testing-restassured)
+> REST API test suite for public APIs (e.g. JSONPlaceholder, ReqRes)
+
+- ✅ **GET / POST / PUT / DELETE** request coverage
+- ✅ **Schema validation** using JSON Schema
+- ✅ **Assertions** on status codes, headers, and response body
+- ✅ Integrated with **TestNG** and **Maven**
+- `Java` `RestAssured` `TestNG` `JSON Schema`
+
+---
+
+### 🏫 [WebDriverUniversity-Tests](https://github.com/YourUsername/webdriveruniversity-tests)
+> Practice automation suite targeting WebDriverUniversity.com
+
+- ✅ Handles **multiple windows**, **alerts**, **iframes**, **dropdowns**
+- ✅ **Mouse hover**, **drag & drop**, **file upload** scenarios
+- ✅ **Screenshot capture** on every key action
+- `Java` `Selenium 4` `TestNG` `ChromeDriver`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Certifications & Learning
+
+| Certificate | Platform | Status |
+|---|---|---|
+| Selenium WebDriver with Java – Basics to Advanced | Udemy | ✅ Completed |
+| Java Programming Masterclass | Udemy | ✅ Completed |
+| Postman – API Testing from Scratch | Udemy | ✅ Completed |
+| ISTQB Foundation Level (CTFL) | ISTQB | 🔄 In Progress |
+
+---
+
+## 🧠 What I'm Currently Learning
+
+```java
+String[] currentlyLearning = {
+    "Cucumber BDD Framework",
+    "Docker for Test Environments",
+    "CI/CD with GitHub Actions",
+    "Performance Testing with JMeter"
+};
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=2c5364&style=flat-square&label=Profile+Views)
+
+*⭐ If you find my projects helpful, consider giving them a star!*
+
+</div>
